@@ -1,0 +1,8 @@
+C:\Users\maria\Desktop\merge\merge\bin\Debug\merge.exe.config
+C:\Users\maria\Desktop\merge\merge\bin\Debug\merge.exe
+C:\Users\maria\Desktop\merge\merge\bin\Debug\merge.pdb
+C:\Users\maria\Desktop\merge\merge\obj\Debug\merge.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\merge\merge\obj\Debug\merge.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\merge\merge\obj\Debug\merge.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\merge\merge\obj\Debug\merge.exe
+C:\Users\maria\Desktop\merge\merge\obj\Debug\merge.pdb
